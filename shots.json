@@ -1,0 +1,1 @@
+[{"name":"1-chase.jpg","query":"?shot=chase&seed=1","untilX":4280,"wait":200},{"name":"2-action.jpg","query":"?shot=action&seed=1","untilDist":330,"untilUnit":"9-IDA-21","wait":400},{"name":"3-map.jpg","query":"?shot=map&seed=1","wait":1200},{"name":"4-passed.jpg","query":"?shot=passed&seed=1","wait":1600}]
